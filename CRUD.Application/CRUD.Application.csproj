@@ -41,11 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppServiceBase.cs" />
-    <Compile Include="ClienteAppService.cs" />
+    <Compile Include="CategoriaAppService.cs" />
     <Compile Include="Interface\IAppServiceBase.cs" />
-    <Compile Include="Interface\IClienteAppService.cs" />
-    <Compile Include="Interface\IProdutoAppService.cs" />
-    <Compile Include="ProdutoAppService.cs" />
+    <Compile Include="Interface\ICategoriaAppService.cs" />
+    <Compile Include="Interface\IEstabelecimentoAppService.cs" />
+    <Compile Include="EstabelecimentoAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

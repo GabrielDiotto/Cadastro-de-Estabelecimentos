@@ -48,12 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto\CRUDContext.cs" />
-    <Compile Include="EntityConfig\ClienteConfiguration.cs" />
-    <Compile Include="EntityConfig\ProdutoConfiguration.cs" />
+    <Compile Include="EntityConfig\CategoriaConfiguration.cs" />
+    <Compile Include="EntityConfig\EstabelecimentoConfiguration.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\ClienteReporitory.cs" />
-    <Compile Include="Repositories\ProdutoRepository.cs" />
+    <Compile Include="Repositories\CategoriaReporitory.cs" />
+    <Compile Include="Repositories\EstabelecimentoRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -10,12 +10,12 @@ namespace CRUD.Infra.Data.Contexto
     public class CRUDContext : DbContext
     {
         public CRUDContext()
-            : base("CRUD")
+            : base("CadastroEstabelecimentos")
         {
 
         }
-        public DbSet<Cliente> Clientes { get; set; }
-        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Estabelecimento> Estabelecimento { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -38,8 +38,8 @@ namespace CRUD.Infra.Data.Contexto
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasMaxLength(100));
 
-            modelBuilder.Configurations.Add(new ClienteConfiguration());
-            modelBuilder.Configurations.Add(new ProdutoConfiguration());
+            modelBuilder.Configurations.Add(new CategoriaConfiguration());
+            modelBuilder.Configurations.Add(new EstabelecimentoConfiguration());
         }
         public override int SaveChanges()
         {

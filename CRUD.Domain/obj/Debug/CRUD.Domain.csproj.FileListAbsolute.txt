@@ -1,0 +1,15 @@
+C:\Users\GabrielDiotto\Documents\Projetos\Estudos\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.dll
+C:\Users\GabrielDiotto\Documents\Projetos\Estudos\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.pdb
+C:\Users\GabrielDiotto\Documents\Projetos\Estudos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.dll
+C:\Users\GabrielDiotto\Documents\Projetos\Estudos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.pdb
+C:\Users\GabrielDiotto\Documents\Projetos\Estudos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.csprojResolveAssemblyReference.cache
+C:\Study\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.dll
+C:\Study\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.pdb
+C:\Study\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.dll
+C:\Study\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.pdb
+C:\Study\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GabrielDiotto\Source\Repos\CadastroDeEstabelecimentos\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.dll
+C:\Users\GabrielDiotto\Source\Repos\CadastroDeEstabelecimentos\CRUD\CRUD.Domain\bin\Debug\CRUD.Domain.pdb
+C:\Users\GabrielDiotto\Source\Repos\CadastroDeEstabelecimentos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GabrielDiotto\Source\Repos\CadastroDeEstabelecimentos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.dll
+C:\Users\GabrielDiotto\Source\Repos\CadastroDeEstabelecimentos\CRUD\CRUD.Domain\obj\Debug\CRUD.Domain.pdb

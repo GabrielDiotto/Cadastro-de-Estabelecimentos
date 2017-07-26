@@ -13,17 +13,8 @@ namespace CRUD.MVC.AutoMapper
 
         protected override void Configure()
         {
-            Mapper.CreateMap<ClienteViewModel, Cliente>();
-            Mapper.CreateMap<ProdutoViewModel, Produto>();
+            Mapper.CreateMap<CategoriaViewModel, Categoria>();
+            Mapper.CreateMap<EstabelecimentoViewModel, Estabelecimento>();
         }
-
-        //protected override void Configure()
-        //{
-        //    var config = new MapperConfiguration(cfg =>
-        //    {
-        //        cfg.CreateMap<ClienteViewModel, Cliente>();
-        //        cfg.CreateMap<ProdutoViewModel, Cliente>();
-        //    });
-        //}
     }
 }
